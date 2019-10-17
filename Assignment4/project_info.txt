@@ -1,0 +1,8 @@
+Team member: Ziyi An 301371687
+			 Duo Lu  301368672
+
+Project: Connect 4
+
+Main language: C++
+
+Library: all from general-purpose helper libraries: stdlib (potentially, rand()), stdio, math (potentially, sqrt()), string, time, etc. 
